@@ -14,5 +14,5 @@ I spend most of my time making websites for non-profit organizations and buildin
 ![Static Badge](https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=MONGODB&labelColor=black&color=%2347A248)
 
 ## Bizness
-- 📎 [My Resume] (https://docs.google.com/document/d/e/2PACX-1vT9FhDsVcSqbrDz9j0PXZTUaGfPnaicmZyC53vJ0ViW2lbAQDBh6dEdAZakWLhZlTSGR72bev9X1w_p/pub)
-- 📧 [laeirene59@gmail.com] (mailto:laeirene59@gmail.com)
+- 📎 [Eirene's Resume](https://docs.google.com/document/d/e/2PACX-1vT9FhDsVcSqbrDz9j0PXZTUaGfPnaicmZyC53vJ0ViW2lbAQDBh6dEdAZakWLhZlTSGR72bev9X1w_p/pub)
+- 📧 [laeirene59@gmail.com](mailto:laeirene59@gmail.com)
